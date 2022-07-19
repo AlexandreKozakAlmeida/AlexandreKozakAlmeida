@@ -1,6 +1,6 @@
 <h1> Bem vindo(a) ao meu github </h1>
 
-<div>
+<div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/AlexandreKozakAlmeida">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreKozakAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreKozakAlmeida&layout=compact&langs_count=7&theme=dracula" />
