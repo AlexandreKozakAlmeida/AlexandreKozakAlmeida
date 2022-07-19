@@ -22,4 +22,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreKozakAlmeida&repo=AlexandreKozakAlmeida&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+
